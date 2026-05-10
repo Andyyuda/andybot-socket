@@ -20,7 +20,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://www.instagram.com/andyyuda28" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-unicorn__xeon13-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2c0e1a" alt="Instagram">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2c0e1a" alt="Instagram">
     </a>
   </p>
 
